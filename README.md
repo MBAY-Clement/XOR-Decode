@@ -1,2 +1,3 @@
 # XOR-Decode
-Script python - pour décoder du XOR 
+
+Python XOR-Decode script.
